@@ -16,12 +16,12 @@ Python is a MUST for students and working professionals to become a great Softwa
 
 Following are important characteristics of Python Programming −
 
-_It supports functional and structured programming methods as well as OOP.
+* It supports functional and structured programming methods as well as OOP.
 
-It can be used as a scripting language or can be compiled to byte-code for building large applications.
+* It can be used as a scripting language or can be compiled to byte-code for building large applications.
 
-It provides very high-level dynamic data types and supports dynamic type checking.
+* It provides very high-level dynamic data types and supports dynamic type checking.
 
-It supports automatic garbage collection.
+* It supports automatic garbage collection.
 
-It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
+* It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.
